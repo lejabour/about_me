@@ -1,0 +1,11 @@
+body {
+background-color: #fff;
+text-align: center;
+padding: 0 50px 0 50px;
+border-top: 5px solid #222;
+border-bottom: 5px solid #222;
+}
+
+p, h3 {
+text-align: left;
+}
