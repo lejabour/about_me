@@ -9,3 +9,11 @@ border-bottom: 5px solid #222;
 p, h3 {
 text-align: left;
 }
+
+h1 {
+color: #ff00cc;
+}
+
+a {
+color: #00cc33;
+}
